@@ -28,3 +28,7 @@ For this deliverable I used Google Colab and PySpark to perform the ETL process:
 * In pgAdmin, I ran a query to check that the tables have been populated
 
 #### Deliverable 1 Results: [Amazon_Reviwes_ETL.ipynb](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/Amazon_Reviwes_ETL.ipynb) 
+
+### Deliverable 2: Determine Bias of Vine Reviews
+For this deliverable I also used Google Colab and PySpark. We use the same data set from deliverable 1. The data was transformed to obtained the columns from the vine_table needed for our analysis.
+
