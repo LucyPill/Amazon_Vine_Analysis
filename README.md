@@ -55,3 +55,5 @@ For this deliverable, the same data set from deliverable was used and transforme
 * The number of 5-star unpaid reviews
 * The percentage of 5-star unpaid reviews
 
+![unpaid](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/unpaid.png)
+
