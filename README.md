@@ -64,3 +64,4 @@ Overall there were 132x more unpaid reviews than paid reviews; however, when com
 
 
 ## Summary:
+Based on the anlysis of this category (Furniture), it is difficult to make an accurate conclussion as to see if there is bias towards paid reviews coming from vine members. If I were to look at the percentage alone for the samll sample population which is the furniture category, I would say "yes, there is bias" however this is not correct. We need more data points to do a fair comparison of the two factors paid vs unpaid. 
