@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-## Overview:
+## Overview/Purpose:
 The purpose of this analysis is to extract, transform and load the Amazon review dataset
 [Amazon Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt),
 [Amazon Funiture Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Furniture_v1_00.tsv.gz)
@@ -13,5 +13,4 @@ We will use our knowlwdge of AWS RDS, PySpark, pgAdmin, and Google Colab to perf
 * A Written Report on the Analysis
 
 ## Results:
-
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
