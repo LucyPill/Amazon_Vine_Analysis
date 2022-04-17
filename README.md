@@ -13,7 +13,7 @@ We will use our knowlwdge of AWS RDS, PySpark, pgAdmin, and Google Colab to perf
 * A Written Report on the Analysis
 
 ## Results:
-### Deliverable 1: Perform ETL on Amazon Product Reviews:
+## Deliverable 1: Perform ETL on Amazon Product Reviews:
 For this deliverable I used Google Colab and PySpark to perform the ETL process:
 
 #### We created several tables that matched the schema in pgAdmin.
@@ -29,6 +29,16 @@ For this deliverable I used Google Colab and PySpark to perform the ETL process:
 
 #### Deliverable 1 Results: [Amazon_Reviwes_ETL.ipynb](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/Amazon_Reviwes_ETL.ipynb) 
 
-### Deliverable 2: Determine Bias of Vine Reviews
-For this deliverable I also used Google Colab and PySpark. We use the same data set from deliverable 1. The data was transformed to obtained the columns from the vine_table needed for our analysis.
+## Deliverable 2: Determine Bias of Vine Reviews
+For this deliverable, the same data set from deliverable was used and transformed to obtain the data needed for the analysis.
 
+For this part of the analysis, the following need to be determined:
+* Filter the data and create a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20
+
+* Filter the new DataFrame or table created in Step 1 and create a new DataFrame or table to retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.
+
+* Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'Y'.
+
+* Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'N'.
+
+* Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
