@@ -39,11 +39,15 @@ For this deliverable, the same data set from deliverable was used and transforme
 ![2.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/2.png)
 
 #### Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'Y'.
-Determine the following: 
+
+##### Determine the following: 
 * Total number of reviews
 * The number of 5-star reviews
 * The percentage of 5-star reviews
+* 
 ![paid.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/paid.png)
+
+
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'N'.
 
 * Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
