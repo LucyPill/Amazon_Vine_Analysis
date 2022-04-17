@@ -58,6 +58,6 @@ For this deliverable, the same data set from deliverable was used and transforme
 ![unpaid](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/unpaid.png)
 
 #### Paid vs Unpaid
-![3.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/3.png
+![3.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/3.png)
 
 
