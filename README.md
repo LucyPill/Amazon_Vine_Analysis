@@ -12,4 +12,4 @@ We will use our knowlwdge of AWS RDS, PySpark, pgAdmin, and Google Colab to perf
 * Determine Bias of Vine Reviews
 * A Written Report on the Analysis
 
-
+## Results:
