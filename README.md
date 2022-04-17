@@ -61,3 +61,6 @@ For this deliverable, the same data set from deliverable was used and transforme
 ![3.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/3.png)
 
 Overall there were 132x more unpaid reviews than paid reviews; however, when computing the percentage of 5 stars paid reviews vs unpaid reviews, we can see that the percentage of paid reviews is higher (54%) than the unpaid reviews (47%). This comparison at least for the furniture category is not a fair comparision since we have a very large number (18,019) for the total unpaid reviews and a small number (136) for the total of paid reviews.
+
+
+## Summary:
