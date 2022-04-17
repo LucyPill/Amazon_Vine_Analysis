@@ -38,7 +38,8 @@ For this deliverable, the same data set from deliverable was used and transforme
 #### * Filter the new DataFrame or table created in Step 1 and create a new DataFrame or table to retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.
 ![2.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/2.png)
 
-* Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'Y'.
+#### * Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'Y'.
+![paid.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/paid.png)
 
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame or table that retrieves all the rows where a review was written as part of the Vine program (paid), vine == 'N'.
 
