@@ -13,3 +13,5 @@ We will use our knowlwdge of AWS RDS, PySpark, pgAdmin, and Google Colab to perf
 * A Written Report on the Analysis
 
 ## Results:
+
+### Deliverable 1: Perform ETL on Amazon Product Reviews
