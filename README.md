@@ -14,3 +14,9 @@ We will use our knowlwdge of AWS RDS, PySpark, pgAdmin, and Google Colab to perf
 
 ## Results:
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
+For this deliverable I used Google Colab and PySpark to perform the ETL process.
+We created several tables that matched the schema in pgAdmin.
+* The customers_table DataFrame
+* The products_table DataFrame
+* The review_id_table DataFrame
+* The vine_table DataFrame
