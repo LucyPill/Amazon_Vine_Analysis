@@ -32,8 +32,8 @@ For this deliverable I used Google Colab and PySpark to perform the ETL process:
 ## Deliverable 2: Determine Bias of Vine Reviews
 For this deliverable, the same data set from deliverable was used and transformed to obtain the data needed for the analysis.
 
-For this part of the analysis, the following need to be determined:
-* Filter the data and create a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20
+#### Filter the data and create a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20
+![1.png](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/images/1.png)
 
 * Filter the new DataFrame or table created in Step 1 and create a new DataFrame or table to retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.
 
