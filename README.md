@@ -27,4 +27,4 @@ For this deliverable I used Google Colab and PySpark to perform the ETL process:
 * Load the DataFrames that correspond to tables in pgAdmin
 * In pgAdmin, I ran a query to check that the tables have been populated
 
-#### See [Amazon_Reviwes_ETL.ipynb](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/Amazon_Reviwes_ETL.ipynb) for results of deliveravle 1
+#### Deliverable 1 Results: [Amazon_Reviwes_ETL.ipynb](https://github.com/LucyPill/Amazon_Vine_Analysis/blob/main/Amazon_Reviwes_ETL.ipynb) 
